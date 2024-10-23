@@ -42,6 +42,10 @@ This project demonstrates the creation of a secure and scalable ETL pipeline cap
 ## Results:
 The ETL pipeline was successfully implemented, securely handling employee data, optimizing cloud resources, and visualizing the processed data using Google Data Studio.
 
+# Data Visualization:
+Explore the visualized data on the secure ETL pipeline via the following Data Studio dashboard:
+- [Data Studio Dashboard Link](...)
+
 ## Future Improvements:
 - Expand the pipeline to handle real-time streaming data.
 - Integrate additional GCP services like Pub/Sub for real-time event processing.
