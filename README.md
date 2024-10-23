@@ -1,7 +1,7 @@
 # Secure and Scalable ETL Pipeline on Google Cloud Platform
 
 ## Executive Summary
-This project demonstrates the creation of a secure and scalable ETL pipeline capable of handling sensitive employee data using Google Cloud Platform tools such as Cloud Data Fusion, Airflow, BigQuery, and Cloud Storage. The pipeline automates data extraction, transformation, and loading while ensuring data security through techniques such as data masking.
+This project demonstrates the creation of a secure and scalable ETL pipeline capable of handling sensitive employee data using Google Cloud Platform tools: Cloud Data Fusion, Airflow, BigQuery, and Cloud Storage. The pipeline automates data extraction, transformation, and loading while ensuring data security through techniques such as data masking.
 
 ## Project Objectives:
 - **Build a scalable ETL pipeline** using GCP’s Cloud Data Fusion and Airflow.
